@@ -1,0 +1,13 @@
+curl http://localhost:5101/contador
+
+###
+
+curl http://localhost:5101/connectionstring
+
+###
+
+curl http://localhost:5101/badrequest
+
+###
+
+curl http://localhost:5101/error
